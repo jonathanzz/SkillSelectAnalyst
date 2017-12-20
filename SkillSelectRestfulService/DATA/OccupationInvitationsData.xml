@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<period lastUpdate="26/07/2017">
+  <occupation>
+    <id>2211</id>
+    <name>Accountants</name>
+    <ceiling>4785</ceiling>
+    <invitations>239</invitations>
+    <score>75</score>
+    <visaDateofEffect>26/05/2017 1:34 pm</visaDateofEffect>
+  </occupation>
+  <occupation>
+    <id>2613</id>
+    <name>Software and Applications Programmers</name>
+    <ceiling>6202</ceiling>
+    <invitations>310</invitations>
+    <score>70</score>
+    <visaDateofEffect>23/06/2017 10.47 am</visaDateofEffect>
+  </occupation>
+</period>
